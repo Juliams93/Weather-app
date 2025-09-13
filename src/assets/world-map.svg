@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Dominio público: https://commons.wikimedia.org/wiki/File:BlankMap-World6-Equirectangular.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1000" viewBox="0 0 2000 1000">
+  <rect width="2000" height="1000" fill="#a7e9f7"/>
+  <g>
+    <path fill="#b6e2a1" d="M 100 800 Q 400 600 800 700 Q 1200 900 1600 600 Q 1800 400 1400 300 Q 1200 200 900 400 Q 700 600 500 500 Q 300 400 100 800 Z"/>
+    <ellipse cx="1700" cy="700" rx="180" ry="80" fill="#b6e2a1"/>
+    <ellipse cx="800" cy="900" rx="100" ry="50" fill="#b6e2a1"/>
+  </g>
+</svg>
