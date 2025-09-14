@@ -48,4 +48,3 @@ Este proyecto está bajo la licencia MIT.
 
 ---
 
-Hecho con ❤️ por [Tu Nombre]
